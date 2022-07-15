@@ -1,0 +1,12 @@
+#EXT3MU
+#EXTINF:-1,Malcom24/7
+https://fenha.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/malcolm_mania_original
+
+#EXTINF:-1,Futurama
+https://fenha.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/futurama_mania98
+
+#EXTINF:-1,Los Simpsons
+https://fenha.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania01d
+
+#EXTINF:-1,Chinchan
+https://fenha.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/eduardo_sur
